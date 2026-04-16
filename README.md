@@ -494,7 +494,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**dakshjecrcfoundation** — [GitHub Profile](https://github.com/dakshjecrcfoundation)
+**daksh7297** — [GitHub Profile](https://github.com/Daksh7297)
 
 ---
 
